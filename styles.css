@@ -1,0 +1,38 @@
+/* Selectors can be used to target specific HTML elements */
+
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling headings */
+h1 {
+    color: #0066cc;
+}
+
+/* Styling paragraphs */
+p {
+    line-height: 1.6;
+}
+
+/* Styling links */
+a {
+    color: #009900;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styling a container div */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,
